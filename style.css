@@ -1,12 +1,10 @@
 body {
     margin: 0;
-    height: 103vh;
-
+    height: 100vh;
     display: flex;
-    justify-content: center;  /* وسط أفقي */
-    align-items: center;      /* وسط عمودي */
-
-    background: url('/wildlife_project/images/wild.jpg') no-repeat center center fixed;
+    justify-content: center;
+    align-items: center;
+    background: url('images/wild.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
